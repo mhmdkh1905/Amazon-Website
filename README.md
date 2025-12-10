@@ -1,1 +1,1 @@
-![this is photo of the real website](Screenshot.png)
+![Screenshot](Screenshot.png)
